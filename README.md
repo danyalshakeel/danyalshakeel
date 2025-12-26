@@ -93,15 +93,5 @@
 → Built fast, responsive UI dashboards with Tailwind & component-driven architecture  
 
 ---
-
-### ☕ Support My Work
-<p align="center">
-  <a href="https://www.buymeacoffee.com/DanyalShakeel">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
----
-
 ### 💬 Quote I Live By
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
